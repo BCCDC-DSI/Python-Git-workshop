@@ -78,10 +78,10 @@ For software-production projects, please ***consult with your manager before ele
 
 ### Workshop developers & facilitators
 
+- Ying Tang
 - Afraz Khan
 - Nirupama Tamvada
-- Lisa Tang
-   
+
 ### Acknowledgements
 
 Many thanks to *Data & Analytics Services* and the curriculum consultants:
